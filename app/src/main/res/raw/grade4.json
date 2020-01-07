@@ -1,0 +1,2932 @@
+{
+  "kanji": [
+    {
+      "symbol": "歴",
+      "kana": [
+        "レキ",
+        "レッキ"
+      ],
+      "meanings": [
+        "curriculum",
+        "continuation",
+        "passage of time"
+      ]
+    },
+    {
+      "symbol": "連",
+      "kana": [
+        "レン",
+        "つらなる",
+        "つらねる",
+        "つれる",
+        "-づれ"
+      ],
+      "meanings": [
+        "take along",
+        "lead",
+        "join",
+        "connect",
+        "party",
+        "gang",
+        "clique"
+      ]
+    },
+    {
+      "symbol": "労",
+      "kana": [
+        "ロウ",
+        "ろうする",
+        "いたわる",
+        "いたずき",
+        "ねぎら",
+        "つかれる",
+        "ねぎらう"
+      ],
+      "meanings": [
+        "labor",
+        "thank for",
+        "reward for",
+        "toil",
+        "trouble"
+      ]
+    },
+    {
+      "symbol": "老",
+      "kana": [
+        "ロウ",
+        "おいる",
+        "ふける"
+      ],
+      "meanings": [
+        "old man",
+        "old age",
+        "grow old"
+      ]
+    },
+    {
+      "symbol": "録",
+      "kana": [
+        "ロク"
+      ],
+      "meanings": [
+        "record"
+      ]
+    },
+    {
+      "symbol": "良",
+      "kana": [
+        "リョウ",
+        "よい",
+        "-よい",
+        "いい",
+        "-いい"
+      ],
+      "meanings": [
+        "good",
+        "pleasing",
+        "skilled"
+      ]
+    },
+    {
+      "symbol": "量",
+      "kana": [
+        "リョウ",
+        "はかる"
+      ],
+      "meanings": [
+        "quantity",
+        "measure",
+        "weight",
+        "amount",
+        "consider",
+        "estimate",
+        "surmise"
+      ]
+    },
+    {
+      "symbol": "輪",
+      "kana": [
+        "リン",
+        "わ"
+      ],
+      "meanings": [
+        "wheel",
+        "ring",
+        "circle",
+        "link",
+        "loop",
+        "counter for wheels and flowers"
+      ]
+    },
+    {
+      "symbol": "類",
+      "kana": [
+        "ルイ",
+        "たぐい"
+      ],
+      "meanings": [
+        "sort",
+        "kind",
+        "variety",
+        "class",
+        "genus"
+      ]
+    },
+    {
+      "symbol": "令",
+      "kana": [
+        "レイ"
+      ],
+      "meanings": [
+        "orders",
+        "ancient laws",
+        "command",
+        "decree"
+      ]
+    },
+    {
+      "symbol": "例",
+      "kana": [
+        "レイ",
+        "たとえる"
+      ],
+      "meanings": [
+        "example",
+        "custom",
+        "usage",
+        "precedent"
+      ]
+    },
+    {
+      "symbol": "冷",
+      "kana": [
+        "レイ",
+        "つめたい",
+        "ひえる",
+        "ひや",
+        "ひややか",
+        "ひやす",
+        "ひやかす",
+        "さめる",
+        "さます"
+      ],
+      "meanings": [
+        "cool",
+        "cold (beer, person)",
+        "chill"
+      ]
+    },
+    {
+      "symbol": "要",
+      "kana": [
+        "ヨウ",
+        "いる",
+        "かなめ"
+      ],
+      "meanings": [
+        "need",
+        "main point",
+        "essence",
+        "pivot",
+        "key to"
+      ]
+    },
+    {
+      "symbol": "養",
+      "kana": [
+        "ヨウ",
+        "リョウ",
+        "やしなう"
+      ],
+      "meanings": [
+        "foster",
+        "bring up",
+        "rear",
+        "develop",
+        "nurture"
+      ]
+    },
+    {
+      "symbol": "浴",
+      "kana": [
+        "ヨク",
+        "あびる",
+        "あびせる"
+      ],
+      "meanings": [
+        "bathe",
+        "be favored with",
+        "bask in"
+      ]
+    },
+    {
+      "symbol": "利",
+      "kana": [
+        "リ",
+        "きく"
+      ],
+      "meanings": [
+        "profit",
+        "advantage",
+        "benefit"
+      ]
+    },
+    {
+      "symbol": "陸",
+      "kana": [
+        "リク",
+        "ロク",
+        "おか"
+      ],
+      "meanings": [
+        "land",
+        "six"
+      ]
+    },
+    {
+      "symbol": "料",
+      "kana": [
+        "リョウ"
+      ],
+      "meanings": [
+        "fee",
+        "materials"
+      ]
+    },
+    {
+      "symbol": "勇",
+      "kana": [
+        "ユウ",
+        "いさむ"
+      ],
+      "meanings": [
+        "courage",
+        "cheer up",
+        "be in high spirits",
+        "bravery",
+        "heroism"
+      ]
+    },
+    {
+      "symbol": "約",
+      "kana": [
+        "ヤク"
+      ],
+      "meanings": [
+        "promise",
+        "approximately",
+        "shrink"
+      ]
+    },
+    {
+      "symbol": "満",
+      "kana": [
+        "マン",
+        "バン",
+        "みちる",
+        "みつ",
+        "みたす"
+      ],
+      "meanings": [
+        "full",
+        "fullness",
+        "enough",
+        "satisfy"
+      ]
+    },
+    {
+      "symbol": "未",
+      "kana": [
+        "ミ",
+        "ビ",
+        "いまだ",
+        "まだ",
+        "ひつじ"
+      ],
+      "meanings": [
+        "un-",
+        "not yet",
+        "hitherto",
+        "still",
+        "even now",
+        "sign of the ram",
+        "1-3PM",
+        "eighth sign of Chinese zodiac"
+      ]
+    },
+    {
+      "symbol": "脈",
+      "kana": [
+        "ミャク",
+        "すじ"
+      ],
+      "meanings": [
+        "vein",
+        "pulse",
+        "hope"
+      ]
+    },
+    {
+      "symbol": "民",
+      "kana": [
+        "ミン",
+        "たみ"
+      ],
+      "meanings": [
+        "people",
+        "nation",
+        "subjects"
+      ]
+    },
+    {
+      "symbol": "無",
+      "kana": [
+        "ム",
+        "ブ",
+        "ない"
+      ],
+      "meanings": [
+        "nothingness",
+        "none",
+        "ain't",
+        "nothing",
+        "nil",
+        "not"
+      ]
+    },
+    {
+      "symbol": "末",
+      "kana": [
+        "マツ",
+        "バツ",
+        "すえ"
+      ],
+      "meanings": [
+        "end",
+        "close",
+        "tip",
+        "powder",
+        "posterity"
+      ]
+    },
+    {
+      "symbol": "包",
+      "kana": [
+        "ホウ",
+        "つつむ",
+        "くるむ"
+      ],
+      "meanings": [
+        "wrap",
+        "pack up",
+        "cover",
+        "conceal"
+      ]
+    },
+    {
+      "symbol": "法",
+      "kana": [
+        "ホウ",
+        "ハッ",
+        "ホッ",
+        "フラン",
+        "のり"
+      ],
+      "meanings": [
+        "method",
+        "law",
+        "rule",
+        "principle",
+        "model",
+        "system"
+      ]
+    },
+    {
+      "symbol": "望",
+      "kana": [
+        "ボウ",
+        "モウ",
+        "のぞむ",
+        "もち"
+      ],
+      "meanings": [
+        "ambition",
+        "full moon",
+        "hope",
+        "desire",
+        "aspire to",
+        "expect"
+      ]
+    },
+    {
+      "symbol": "牧",
+      "kana": [
+        "ボク",
+        "まき"
+      ],
+      "meanings": [
+        "breed",
+        "care for",
+        "shepherd",
+        "feed",
+        "pasture"
+      ]
+    },
+    {
+      "symbol": "便",
+      "kana": [
+        "ベン",
+        "ビン",
+        "たより"
+      ],
+      "meanings": [
+        "convenience"
+      ]
+    },
+    {
+      "symbol": "兵",
+      "kana": [
+        "ヘイ",
+        "ヒョウ",
+        "つわもの"
+      ],
+      "meanings": [
+        "soldier",
+        "private",
+        "troops",
+        "army",
+        "warfare",
+        "strategy",
+        "tactics"
+      ]
+    },
+    {
+      "symbol": "別",
+      "kana": [
+        "ベツ",
+        "わかれる",
+        "わける"
+      ],
+      "meanings": [
+        "separate",
+        "branch off",
+        "diverge",
+        "fork",
+        "another",
+        "extra",
+        "specially"
+      ]
+    },
+    {
+      "symbol": "変",
+      "kana": [
+        "ヘン",
+        "かわる",
+        "かわり",
+        "かえる"
+      ],
+      "meanings": [
+        "unusual",
+        "change",
+        "strange"
+      ]
+    },
+    {
+      "symbol": "辺",
+      "kana": [
+        "ヘン",
+        "あたり",
+        "ほとり",
+        "-べ"
+      ],
+      "meanings": [
+        "environs",
+        "boundary",
+        "border",
+        "vicinity"
+      ]
+    },
+    {
+      "symbol": "副",
+      "kana": [
+        "フク"
+      ],
+      "meanings": [
+        "vice-",
+        "duplicate",
+        "copy"
+      ]
+    },
+    {
+      "symbol": "粉",
+      "kana": [
+        "フン",
+        "デシメートル",
+        "こ",
+        "こな"
+      ],
+      "meanings": [
+        "flour",
+        "powder",
+        "dust"
+      ]
+    },
+    {
+      "symbol": "不",
+      "kana": [
+        "フ",
+        "ブ"
+      ],
+      "meanings": [
+        "negative",
+        "non-",
+        "bad",
+        "ugly",
+        "clumsy"
+      ]
+    },
+    {
+      "symbol": "付",
+      "kana": [
+        "フ",
+        "つける",
+        "-つける",
+        "-づける",
+        "つけ",
+        "つけ-",
+        "-つけ",
+        "-づけ",
+        "-づけ",
+        "つく",
+        "-づく",
+        "つき",
+        "-つき",
+        "-つ"
+      ],
+      "meanings": [
+        "adhere",
+        "attach",
+        "refer to",
+        "append"
+      ]
+    },
+    {
+      "symbol": "夫",
+      "kana": [
+        "フ",
+        "フウ",
+        "ブ",
+        "おっと",
+        "それ"
+      ],
+      "meanings": [
+        "husband",
+        "man"
+      ]
+    },
+    {
+      "symbol": "府",
+      "kana": [
+        "フ"
+      ],
+      "meanings": [
+        "borough",
+        "urban prefecture",
+        "govt office",
+        "representative body",
+        "storehouse"
+      ]
+    },
+    {
+      "symbol": "飯",
+      "kana": [
+        "ハン",
+        "めし"
+      ],
+      "meanings": [
+        "meal",
+        "boiled rice"
+      ]
+    },
+    {
+      "symbol": "費",
+      "kana": [
+        "ヒ",
+        "ついやす",
+        "ついえる"
+      ],
+      "meanings": [
+        "expense",
+        "cost",
+        "spend",
+        "consume",
+        "waste"
+      ]
+    },
+    {
+      "symbol": "飛",
+      "kana": [
+        "ヒ",
+        "とぶ",
+        "とばす",
+        "-とばす"
+      ],
+      "meanings": [
+        "fly",
+        "skip (pages)",
+        "scatter"
+      ]
+    },
+    {
+      "symbol": "必",
+      "kana": [
+        "ヒツ",
+        "かならず"
+      ],
+      "meanings": [
+        "invariably",
+        "certain",
+        "inevitable"
+      ]
+    },
+    {
+      "symbol": "標",
+      "kana": [
+        "ヒョウ",
+        "しるべ",
+        "しるし"
+      ],
+      "meanings": [
+        "signpost",
+        "seal",
+        "mark",
+        "stamp",
+        "imprint",
+        "symbol",
+        "emblem",
+        "trademark",
+        "evidence",
+        "souvenir",
+        "target"
+      ]
+    },
+    {
+      "symbol": "票",
+      "kana": [
+        "ヒョウ"
+      ],
+      "meanings": [
+        "ballot",
+        "label",
+        "ticket",
+        "sign"
+      ]
+    },
+    {
+      "symbol": "博",
+      "kana": [
+        "ハク",
+        "バク"
+      ],
+      "meanings": [
+        "Dr.",
+        "command",
+        "esteem",
+        "win acclaim",
+        "Ph.D.",
+        "exposition",
+        "fair"
+      ]
+    },
+    {
+      "symbol": "熱",
+      "kana": [
+        "ネツ",
+        "あつい"
+      ],
+      "meanings": [
+        "heat",
+        "temperature",
+        "fever",
+        "mania",
+        "passion"
+      ]
+    },
+    {
+      "symbol": "念",
+      "kana": [
+        "ネン"
+      ],
+      "meanings": [
+        "wish",
+        "sense",
+        "idea",
+        "thought",
+        "feeling",
+        "desire",
+        "attention"
+      ]
+    },
+    {
+      "symbol": "敗",
+      "kana": [
+        "ハイ",
+        "やぶれる"
+      ],
+      "meanings": [
+        "failure",
+        "defeat",
+        "reversal"
+      ]
+    },
+    {
+      "symbol": "梅",
+      "kana": [
+        "バイ",
+        "うめ"
+      ],
+      "meanings": [
+        "plum"
+      ]
+    },
+    {
+      "symbol": "働",
+      "kana": [
+        "ドウ",
+        "リュク",
+        "リキ",
+        "ロク",
+        "リョク",
+        "はたらく"
+      ],
+      "meanings": [
+        "work",
+        "(kokuji)"
+      ]
+    },
+    {
+      "symbol": "堂",
+      "kana": [
+        "ドウ"
+      ],
+      "meanings": [
+        "public chamber",
+        "hall"
+      ]
+    },
+    {
+      "symbol": "得",
+      "kana": [
+        "トク",
+        "える",
+        "うる"
+      ],
+      "meanings": [
+        "gain",
+        "get",
+        "find",
+        "earn",
+        "acquire",
+        "can",
+        "may",
+        "able to",
+        "profit",
+        "advantage",
+        "benefit"
+      ]
+    },
+    {
+      "symbol": "特",
+      "kana": [
+        "トク"
+      ],
+      "meanings": [
+        "special"
+      ]
+    },
+    {
+      "symbol": "毒",
+      "kana": [
+        "ドク"
+      ],
+      "meanings": [
+        "poison",
+        "virus",
+        "venom",
+        "germ",
+        "harm",
+        "injury",
+        "spite"
+      ]
+    },
+    {
+      "symbol": "灯",
+      "kana": [
+        "トウ",
+        "ひ",
+        "ほ-",
+        "ともしび",
+        "ともす",
+        "あかり"
+      ],
+      "meanings": [
+        "lamp",
+        "a light",
+        "light",
+        "counter for lights"
+      ]
+    },
+    {
+      "symbol": "努",
+      "kana": [
+        "ド",
+        "つとめる"
+      ],
+      "meanings": [
+        "toil",
+        "diligent",
+        "as much as possible"
+      ]
+    },
+    {
+      "symbol": "徒",
+      "kana": [
+        "ト",
+        "いたずら",
+        "あだ"
+      ],
+      "meanings": [
+        "junior",
+        "emptiness",
+        "vanity",
+        "futility",
+        "uselessness",
+        "ephemeral thing",
+        "gang",
+        "set",
+        "party",
+        "people"
+      ]
+    },
+    {
+      "symbol": "兆",
+      "kana": [
+        "チョウ",
+        "きざす",
+        "きざし"
+      ],
+      "meanings": [
+        "portent",
+        "10**12",
+        "trillion",
+        "sign",
+        "omen",
+        "symptoms"
+      ]
+    },
+    {
+      "symbol": "腸",
+      "kana": [
+        "チョウ",
+        "はらわた"
+      ],
+      "meanings": [
+        "intestines",
+        "guts",
+        "bowels",
+        "viscera"
+      ]
+    },
+    {
+      "symbol": "低",
+      "kana": [
+        "テイ",
+        "ひくい",
+        "ひくめる",
+        "ひくまる"
+      ],
+      "meanings": [
+        "lower",
+        "short",
+        "humble"
+      ]
+    },
+    {
+      "symbol": "停",
+      "kana": [
+        "テイ",
+        "とめる",
+        "とまる"
+      ],
+      "meanings": [
+        "halt",
+        "stopping"
+      ]
+    },
+    {
+      "symbol": "底",
+      "kana": [
+        "テイ",
+        "そこ"
+      ],
+      "meanings": [
+        "bottom",
+        "sole",
+        "depth",
+        "bottom price",
+        "base",
+        "kind",
+        "sort"
+      ]
+    },
+    {
+      "symbol": "的",
+      "kana": [
+        "テキ",
+        "まと"
+      ],
+      "meanings": [
+        "bull's eye",
+        "mark",
+        "target",
+        "object",
+        "adjective ending"
+      ]
+    },
+    {
+      "symbol": "典",
+      "kana": [
+        "テン",
+        "デン"
+      ],
+      "meanings": [
+        "code",
+        "ceremony",
+        "law",
+        "rule"
+      ]
+    },
+    {
+      "symbol": "伝",
+      "kana": [
+        "デン",
+        "テン",
+        "つたわる",
+        "つたえる",
+        "つたう",
+        "つだう",
+        "-づたい",
+        "つて"
+      ],
+      "meanings": [
+        "transmit",
+        "go along",
+        "walk along",
+        "follow",
+        "report",
+        "communicate",
+        "legend",
+        "tradition"
+      ]
+    },
+    {
+      "symbol": "貯",
+      "kana": [
+        "チョ",
+        "ためる",
+        "たくわえる"
+      ],
+      "meanings": [
+        "savings",
+        "store",
+        "lay in",
+        "keep",
+        "wear mustache"
+      ]
+    },
+    {
+      "symbol": "置",
+      "kana": [
+        "チ",
+        "おく",
+        "-おき"
+      ],
+      "meanings": [
+        "placement",
+        "put",
+        "set",
+        "deposit",
+        "leave behind",
+        "keep",
+        "employ",
+        "pawn"
+      ]
+    },
+    {
+      "symbol": "仲",
+      "kana": [
+        "チュウ",
+        "なか"
+      ],
+      "meanings": [
+        "go-between",
+        "relationship"
+      ]
+    },
+    {
+      "symbol": "達",
+      "kana": [
+        "タツ",
+        "ダ",
+        "-たち"
+      ],
+      "meanings": [
+        "accomplished",
+        "reach",
+        "arrive",
+        "attain"
+      ]
+    },
+    {
+      "symbol": "単",
+      "kana": [
+        "タン",
+        "ひとえ"
+      ],
+      "meanings": [
+        "simple",
+        "one",
+        "single",
+        "merely"
+      ]
+    },
+    {
+      "symbol": "隊",
+      "kana": [
+        "タイ"
+      ],
+      "meanings": [
+        "regiment",
+        "party",
+        "company",
+        "squad"
+      ]
+    },
+    {
+      "symbol": "帯",
+      "kana": [
+        "タイ",
+        "おびる",
+        "おび"
+      ],
+      "meanings": [
+        "sash",
+        "belt",
+        "obi",
+        "zone",
+        "region"
+      ]
+    },
+    {
+      "symbol": "巣",
+      "kana": [
+        "ソウ",
+        "す",
+        "すくう"
+      ],
+      "meanings": [
+        "nest",
+        "rookery",
+        "hive",
+        "cobweb",
+        "den"
+      ]
+    },
+    {
+      "symbol": "争",
+      "kana": [
+        "ソウ",
+        "あらそう",
+        "いかでか"
+      ],
+      "meanings": [
+        "contend",
+        "dispute",
+        "argue"
+      ]
+    },
+    {
+      "symbol": "側",
+      "kana": [
+        "ソク",
+        "かわ",
+        "がわ",
+        "そば"
+      ],
+      "meanings": [
+        "side",
+        "lean",
+        "oppose",
+        "regret"
+      ]
+    },
+    {
+      "symbol": "束",
+      "kana": [
+        "ソク",
+        "たば",
+        "たばねる",
+        "つか",
+        "つかねる"
+      ],
+      "meanings": [
+        "bundle",
+        "sheaf",
+        "ream",
+        "tie in bundles",
+        "govern",
+        "manage",
+        "control"
+      ]
+    },
+    {
+      "symbol": "続",
+      "kana": [
+        "ゾク",
+        "ショク",
+        "コウ",
+        "キョウ",
+        "つづく",
+        "つづける",
+        "つぐない"
+      ],
+      "meanings": [
+        "continue",
+        "series",
+        "sequel"
+      ]
+    },
+    {
+      "symbol": "卒",
+      "kana": [
+        "ソツ",
+        "シュツ",
+        "そっする",
+        "おえる",
+        "おわる",
+        "ついに",
+        "にわか"
+      ],
+      "meanings": [
+        "graduate",
+        "soldier",
+        "private",
+        "die"
+      ]
+    },
+    {
+      "symbol": "孫",
+      "kana": [
+        "ソン",
+        "まご"
+      ],
+      "meanings": [
+        "grandchild",
+        "descendants"
+      ]
+    },
+    {
+      "symbol": "倉",
+      "kana": [
+        "ソウ",
+        "くら"
+      ],
+      "meanings": [
+        "godown",
+        "warehouse",
+        "storehouse",
+        "cellar",
+        "treasury"
+      ]
+    },
+    {
+      "symbol": "席",
+      "kana": [
+        "セキ",
+        "むしろ"
+      ],
+      "meanings": [
+        "seat",
+        "mat",
+        "occasion",
+        "place"
+      ]
+    },
+    {
+      "symbol": "積",
+      "kana": [
+        "セキ",
+        "つむ",
+        "-づみ",
+        "つもる",
+        "つもり"
+      ],
+      "meanings": [
+        "volume",
+        "product (x*y)",
+        "acreage",
+        "contents",
+        "pile up",
+        "stack",
+        "load",
+        "amass"
+      ]
+    },
+    {
+      "symbol": "折",
+      "kana": [
+        "セツ",
+        "おる",
+        "おり",
+        "おり",
+        "-おり",
+        "おれる"
+      ],
+      "meanings": [
+        "fold",
+        "break",
+        "fracture",
+        "bend",
+        "yield",
+        "submit"
+      ]
+    },
+    {
+      "symbol": "節",
+      "kana": [
+        "セツ",
+        "セチ",
+        "ふし",
+        "-ぶし",
+        "のっと"
+      ],
+      "meanings": [
+        "node",
+        "season",
+        "period",
+        "occasion",
+        "verse",
+        "clause",
+        "stanza",
+        "honor",
+        "joint",
+        "knuckle",
+        "knob",
+        "knot",
+        "tune",
+        "melody"
+      ]
+    },
+    {
+      "symbol": "説",
+      "kana": [
+        "セツ",
+        "ゼイ",
+        "とく"
+      ],
+      "meanings": [
+        "rumor",
+        "opinion",
+        "theory"
+      ]
+    },
+    {
+      "symbol": "戦",
+      "kana": [
+        "セン",
+        "いくさ",
+        "たたかう",
+        "おののく",
+        "そよぐ",
+        "わななく"
+      ],
+      "meanings": [
+        "war",
+        "battle",
+        "match"
+      ]
+    },
+    {
+      "symbol": "浅",
+      "kana": [
+        "セン",
+        "あさい"
+      ],
+      "meanings": [
+        "shallow",
+        "superficial",
+        "frivolous",
+        "wretched",
+        "shameful"
+      ]
+    },
+    {
+      "symbol": "選",
+      "kana": [
+        "セン",
+        "えらぶ"
+      ],
+      "meanings": [
+        "elect",
+        "select",
+        "choose",
+        "prefer"
+      ]
+    },
+    {
+      "symbol": "然",
+      "kana": [
+        "ゼン",
+        "ネン",
+        "しか",
+        "しかり",
+        "しかし",
+        "さ"
+      ],
+      "meanings": [
+        "sort of thing",
+        "so",
+        "if so",
+        "in that case",
+        "well"
+      ]
+    },
+    {
+      "symbol": "清",
+      "kana": [
+        "セイ",
+        "ショウ",
+        "シン",
+        "きよい",
+        "きよまる",
+        "きよめる"
+      ],
+      "meanings": [
+        "pure",
+        "purify",
+        "cleanse",
+        "exorcise",
+        "Manchu dynasty"
+      ]
+    },
+    {
+      "symbol": "静",
+      "kana": [
+        "セイ",
+        "ジョウ",
+        "しず-",
+        "しずか",
+        "しずまる",
+        "しずめる"
+      ],
+      "meanings": [
+        "quiet"
+      ]
+    },
+    {
+      "symbol": "成",
+      "kana": [
+        "セイ",
+        "ジョウ",
+        "なる",
+        "なす",
+        "-なす"
+      ],
+      "meanings": [
+        "turn into",
+        "become",
+        "get",
+        "grow",
+        "elapse",
+        "reach"
+      ]
+    },
+    {
+      "symbol": "信",
+      "kana": [
+        "シン"
+      ],
+      "meanings": [
+        "faith",
+        "truth",
+        "fidelity",
+        "trust"
+      ]
+    },
+    {
+      "symbol": "臣",
+      "kana": [
+        "シン",
+        "ジン"
+      ],
+      "meanings": [
+        "retainer",
+        "subject"
+      ]
+    },
+    {
+      "symbol": "順",
+      "kana": [
+        "ジュン"
+      ],
+      "meanings": [
+        "obey",
+        "order",
+        "turn",
+        "right",
+        "docility",
+        "occasion"
+      ]
+    },
+    {
+      "symbol": "初",
+      "kana": [
+        "ショ",
+        "はじめ",
+        "はじめて",
+        "はつ",
+        "はつ-",
+        "うい-",
+        "-そめる",
+        "-ぞめ"
+      ],
+      "meanings": [
+        "first time",
+        "beginning"
+      ]
+    },
+    {
+      "symbol": "唱",
+      "kana": [
+        "ショウ",
+        "となえる"
+      ],
+      "meanings": [
+        "chant",
+        "recite",
+        "call upon",
+        "yell"
+      ]
+    },
+    {
+      "symbol": "松",
+      "kana": [
+        "ショウ",
+        "まつ"
+      ],
+      "meanings": [
+        "pine tree"
+      ]
+    },
+    {
+      "symbol": "焼",
+      "kana": [
+        "ショウ",
+        "やく",
+        "やき",
+        "やき-",
+        "-やき",
+        "やける"
+      ],
+      "meanings": [
+        "bake",
+        "burning"
+      ]
+    },
+    {
+      "symbol": "照",
+      "kana": [
+        "ショウ",
+        "てる",
+        "てらす",
+        "てれる"
+      ],
+      "meanings": [
+        "illuminate",
+        "shine",
+        "compare",
+        "bashful"
+      ]
+    },
+    {
+      "symbol": "省",
+      "kana": [
+        "セイ",
+        "ショウ",
+        "かえりみる",
+        "はぶく"
+      ],
+      "meanings": [
+        "focus",
+        "government ministry",
+        "conserve"
+      ]
+    },
+    {
+      "symbol": "笑",
+      "kana": [
+        "ショウ",
+        "わらう",
+        "えむ"
+      ],
+      "meanings": [
+        "laugh"
+      ]
+    },
+    {
+      "symbol": "象",
+      "kana": [
+        "ショウ",
+        "ゾウ",
+        "かたどる"
+      ],
+      "meanings": [
+        "elephant",
+        "pattern after",
+        "imitate",
+        "image",
+        "shape",
+        "sign (of the times)"
+      ]
+    },
+    {
+      "symbol": "賞",
+      "kana": [
+        "ショウ",
+        "ほめる"
+      ],
+      "meanings": [
+        "prize",
+        "reward",
+        "praise"
+      ]
+    },
+    {
+      "symbol": "祝",
+      "kana": [
+        "シュク",
+        "シュウ",
+        "いわう"
+      ],
+      "meanings": [
+        "celebrate",
+        "congratulate"
+      ]
+    },
+    {
+      "symbol": "周",
+      "kana": [
+        "シュウ",
+        "まわり"
+      ],
+      "meanings": [
+        "circumference",
+        "circuit",
+        "lap"
+      ]
+    },
+    {
+      "symbol": "種",
+      "kana": [
+        "シュ",
+        "たね",
+        "-ぐさ"
+      ],
+      "meanings": [
+        "species",
+        "kind",
+        "class",
+        "variety",
+        "seed"
+      ]
+    },
+    {
+      "symbol": "借",
+      "kana": [
+        "シャク",
+        "かりる"
+      ],
+      "meanings": [
+        "borrow",
+        "rent"
+      ]
+    },
+    {
+      "symbol": "辞",
+      "kana": [
+        "ジ",
+        "やめる",
+        "いなむ"
+      ],
+      "meanings": [
+        "resign",
+        "word",
+        "term",
+        "expression"
+      ]
+    },
+    {
+      "symbol": "失",
+      "kana": [
+        "シツ",
+        "うしなう",
+        "うせる"
+      ],
+      "meanings": [
+        "lose",
+        "error",
+        "fault",
+        "disadvantage",
+        "loss"
+      ]
+    },
+    {
+      "symbol": "試",
+      "kana": [
+        "シ",
+        "こころみる",
+        "ためす"
+      ],
+      "meanings": [
+        "test",
+        "try",
+        "attempt",
+        "experiment",
+        "ordeal"
+      ]
+    },
+    {
+      "symbol": "児",
+      "kana": [
+        "ジ",
+        "ニ",
+        "ゲイ",
+        "こ",
+        "-こ",
+        "-っこ"
+      ],
+      "meanings": [
+        "newborn babe",
+        "child",
+        "young of animals"
+      ]
+    },
+    {
+      "symbol": "治",
+      "kana": [
+        "ジ",
+        "チ",
+        "おさめる",
+        "おさまる",
+        "なおる",
+        "なおす"
+      ],
+      "meanings": [
+        "reign",
+        "be at peace",
+        "calm down",
+        "subdue",
+        "quell",
+        "govt",
+        "cure",
+        "heal",
+        "rule",
+        "conserve"
+      ]
+    },
+    {
+      "symbol": "氏",
+      "kana": [
+        "シ",
+        "うじ",
+        "-うじ"
+      ],
+      "meanings": [
+        "family name",
+        "surname",
+        "clan"
+      ]
+    },
+    {
+      "symbol": "史",
+      "kana": [
+        "シ"
+      ],
+      "meanings": [
+        "history",
+        "chronicle"
+      ]
+    },
+    {
+      "symbol": "士",
+      "kana": [
+        "シ"
+      ],
+      "meanings": [
+        "gentleman",
+        "samurai",
+        "samurai radical (no. 33)"
+      ]
+    },
+    {
+      "symbol": "参",
+      "kana": [
+        "サン",
+        "シン",
+        "まいる",
+        "まい-",
+        "まじわる",
+        "みつ"
+      ],
+      "meanings": [
+        "nonplussed",
+        "three",
+        "going",
+        "coming",
+        "visiting",
+        "visit",
+        "be defeated",
+        "die",
+        "be madly in love"
+      ]
+    },
+    {
+      "symbol": "散",
+      "kana": [
+        "サン",
+        "ちる",
+        "ちらす",
+        "-ちらす",
+        "ちらかす",
+        "ちらかる",
+        "ばら"
+      ],
+      "meanings": [
+        "scatter",
+        "disperse",
+        "spend",
+        "squander"
+      ]
+    },
+    {
+      "symbol": "産",
+      "kana": [
+        "サン",
+        "うむ",
+        "うまれる",
+        "うぶ-",
+        "むす"
+      ],
+      "meanings": [
+        "products",
+        "bear",
+        "give birth",
+        "yield",
+        "childbirth",
+        "native",
+        "property"
+      ]
+    },
+    {
+      "symbol": "残",
+      "kana": [
+        "ザン",
+        "サン",
+        "のこる",
+        "のこす",
+        "そこなう",
+        "のこり"
+      ],
+      "meanings": [
+        "remainder",
+        "leftover",
+        "balance"
+      ]
+    },
+    {
+      "symbol": "司",
+      "kana": [
+        "シ",
+        "つかさどる"
+      ],
+      "meanings": [
+        "director",
+        "official",
+        "govt office",
+        "rule",
+        "administer"
+      ]
+    },
+    {
+      "symbol": "察",
+      "kana": [
+        "サツ"
+      ],
+      "meanings": [
+        "guess",
+        "presume",
+        "surmise",
+        "judge",
+        "understand"
+      ]
+    },
+    {
+      "symbol": "札",
+      "kana": [
+        "サツ",
+        "ふだ"
+      ],
+      "meanings": [
+        "tag",
+        "paper money",
+        "counter for bonds",
+        "placard",
+        "bid"
+      ]
+    },
+    {
+      "symbol": "殺",
+      "kana": [
+        "サツ",
+        "サイ",
+        "セツ",
+        "ころす",
+        "-ごろし",
+        "そぐ"
+      ],
+      "meanings": [
+        "kill",
+        "murder",
+        "butcher",
+        "slice off",
+        "split",
+        "diminish",
+        "reduce",
+        "spoil"
+      ]
+    },
+    {
+      "symbol": "刷",
+      "kana": [
+        "サツ",
+        "する",
+        "-ずり",
+        "-ずり",
+        "はく"
+      ],
+      "meanings": [
+        "printing",
+        "print"
+      ]
+    },
+    {
+      "symbol": "菜",
+      "kana": [
+        "サイ",
+        "な"
+      ],
+      "meanings": [
+        "vegetable",
+        "side dish",
+        "greens"
+      ]
+    },
+    {
+      "symbol": "材",
+      "kana": [
+        "ザイ"
+      ],
+      "meanings": [
+        "lumber",
+        "log",
+        "timber",
+        "wood",
+        "talent"
+      ]
+    },
+    {
+      "symbol": "昨",
+      "kana": [
+        "サク"
+      ],
+      "meanings": [
+        "yesterday",
+        "previous"
+      ]
+    },
+    {
+      "symbol": "差",
+      "kana": [
+        "サ",
+        "さす",
+        "さし"
+      ],
+      "meanings": [
+        "distinction",
+        "difference",
+        "variation",
+        "discrepancy",
+        "margin",
+        "balance"
+      ]
+    },
+    {
+      "symbol": "最",
+      "kana": [
+        "サイ",
+        "シュ",
+        "もっとも",
+        "つま"
+      ],
+      "meanings": [
+        "utmost",
+        "most",
+        "extreme"
+      ]
+    },
+    {
+      "symbol": "告",
+      "kana": [
+        "コク",
+        "つげる"
+      ],
+      "meanings": [
+        "revelation",
+        "tell",
+        "inform",
+        "announce"
+      ]
+    },
+    {
+      "symbol": "航",
+      "kana": [
+        "コウ"
+      ],
+      "meanings": [
+        "navigate",
+        "sail",
+        "cruise",
+        "fly"
+      ]
+    },
+    {
+      "symbol": "功",
+      "kana": [
+        "コウ",
+        "ク",
+        "いさお"
+      ],
+      "meanings": [
+        "achievement",
+        "merits",
+        "success",
+        "honor",
+        "credit"
+      ]
+    },
+    {
+      "symbol": "好",
+      "kana": [
+        "コウ",
+        "このむ",
+        "すく",
+        "よい",
+        "いい"
+      ],
+      "meanings": [
+        "fond",
+        "pleasing",
+        "like something"
+      ]
+    },
+    {
+      "symbol": "康",
+      "kana": [
+        "コウ"
+      ],
+      "meanings": [
+        "ease",
+        "peace"
+      ]
+    },
+    {
+      "symbol": "候",
+      "kana": [
+        "コウ",
+        "そうろう"
+      ],
+      "meanings": [
+        "climate",
+        "season",
+        "weather"
+      ]
+    },
+    {
+      "symbol": "固",
+      "kana": [
+        "コ",
+        "かためる",
+        "かたまる",
+        "かたまり",
+        "かたい"
+      ],
+      "meanings": [
+        "harden",
+        "set",
+        "clot",
+        "curdle"
+      ]
+    },
+    {
+      "symbol": "芸",
+      "kana": [
+        "ゲイ",
+        "ウン",
+        "うえる",
+        "のり",
+        "わざ"
+      ],
+      "meanings": [
+        "technique",
+        "art",
+        "craft",
+        "performance",
+        "acting",
+        "trick",
+        "stunt"
+      ]
+    },
+    {
+      "symbol": "欠",
+      "kana": [
+        "ケツ",
+        "ケン",
+        "かける",
+        "かく"
+      ],
+      "meanings": [
+        "lack",
+        "gap",
+        "fail",
+        "yawning radical (no. 76)"
+      ]
+    },
+    {
+      "symbol": "結",
+      "kana": [
+        "ケツ",
+        "ケチ",
+        "むすぶ",
+        "ゆう",
+        "ゆわえる"
+      ],
+      "meanings": [
+        "tie",
+        "bind",
+        "contract",
+        "join",
+        "organize",
+        "do up hair",
+        "fasten"
+      ]
+    },
+    {
+      "symbol": "健",
+      "kana": [
+        "ケン",
+        "すこやか"
+      ],
+      "meanings": [
+        "healthy",
+        "health",
+        "strength",
+        "persistence"
+      ]
+    },
+    {
+      "symbol": "建",
+      "kana": [
+        "ケン",
+        "コン",
+        "たてる",
+        "たて",
+        "-だて",
+        "たつ"
+      ],
+      "meanings": [
+        "build"
+      ]
+    },
+    {
+      "symbol": "験",
+      "kana": [
+        "ケン",
+        "ゲン",
+        "あかし",
+        "しるし",
+        "ためす",
+        "ためし"
+      ],
+      "meanings": [
+        "verification",
+        "effect",
+        "testing"
+      ]
+    },
+    {
+      "symbol": "径",
+      "kana": [
+        "ケイ",
+        "みち",
+        "こみち",
+        "さしわたし",
+        "ただちに"
+      ],
+      "meanings": [
+        "diameter",
+        "path",
+        "method"
+      ]
+    },
+    {
+      "symbol": "景",
+      "kana": [
+        "ケイ"
+      ],
+      "meanings": [
+        "scenery",
+        "view"
+      ]
+    },
+    {
+      "symbol": "訓",
+      "kana": [
+        "クン",
+        "キン",
+        "おしえる",
+        "よむ",
+        "くんずる"
+      ],
+      "meanings": [
+        "instruction",
+        "Japanese character reading",
+        "explanation",
+        "read"
+      ]
+    },
+    {
+      "symbol": "軍",
+      "kana": [
+        "グン"
+      ],
+      "meanings": [
+        "army",
+        "force",
+        "troops",
+        "war",
+        "battle"
+      ]
+    },
+    {
+      "symbol": "郡",
+      "kana": [
+        "グン",
+        "こうり"
+      ],
+      "meanings": [
+        "county",
+        "district"
+      ]
+    },
+    {
+      "symbol": "型",
+      "kana": [
+        "ケイ",
+        "かた",
+        "-がた"
+      ],
+      "meanings": [
+        "mould",
+        "type",
+        "model"
+      ]
+    },
+    {
+      "symbol": "鏡",
+      "kana": [
+        "キョウ",
+        "ケイ",
+        "かがみ"
+      ],
+      "meanings": [
+        "mirror",
+        "speculum",
+        "barrel-head",
+        "round rice-cake offering"
+      ]
+    },
+    {
+      "symbol": "極",
+      "kana": [
+        "キョク",
+        "ゴク",
+        "きわめる",
+        "きわまる",
+        "きわまり",
+        "きわみ",
+        "きめる",
+        "-ぎめ",
+        "きまる"
+      ],
+      "meanings": [
+        "poles",
+        "settlement",
+        "conclusion",
+        "end",
+        "highest rank",
+        "electric poles",
+        "very",
+        "extremely",
+        "most",
+        "highly",
+        "10**48"
+      ]
+    },
+    {
+      "symbol": "挙",
+      "kana": [
+        "キョ",
+        "あげる",
+        "あがる",
+        "こぞる"
+      ],
+      "meanings": [
+        "raise",
+        "plan",
+        "project",
+        "behavior",
+        "actions"
+      ]
+    },
+    {
+      "symbol": "漁",
+      "kana": [
+        "ギョ",
+        "リョウ",
+        "あさる"
+      ],
+      "meanings": [
+        "fishing",
+        "fishery"
+      ]
+    },
+    {
+      "symbol": "競",
+      "kana": [
+        "キョウ",
+        "ケイ",
+        "きそう",
+        "せる"
+      ],
+      "meanings": [
+        "emulate",
+        "compete with",
+        "bid",
+        "sell at auction",
+        "bout",
+        "contest",
+        "race"
+      ]
+    },
+    {
+      "symbol": "共",
+      "kana": [
+        "キョウ",
+        "とも",
+        "ともに",
+        "-ども"
+      ],
+      "meanings": [
+        "together",
+        "both",
+        "neither",
+        "all",
+        "and",
+        "alike",
+        "with"
+      ]
+    },
+    {
+      "symbol": "協",
+      "kana": [
+        "キョウ"
+      ],
+      "meanings": [
+        "co-",
+        "cooperation"
+      ]
+    },
+    {
+      "symbol": "季",
+      "kana": [
+        "キ"
+      ],
+      "meanings": [
+        "seasons"
+      ]
+    },
+    {
+      "symbol": "紀",
+      "kana": [
+        "キ"
+      ],
+      "meanings": [
+        "chronicle",
+        "account",
+        "narrative",
+        "history",
+        "annals",
+        "geologic period"
+      ]
+    },
+    {
+      "symbol": "議",
+      "kana": [
+        "ギ"
+      ],
+      "meanings": [
+        "deliberation",
+        "consultation",
+        "debate",
+        "consideration"
+      ]
+    },
+    {
+      "symbol": "救",
+      "kana": [
+        "キュウ",
+        "すくう"
+      ],
+      "meanings": [
+        "salvation",
+        "save",
+        "help",
+        "rescue",
+        "reclaim"
+      ]
+    },
+    {
+      "symbol": "求",
+      "kana": [
+        "キュウ",
+        "グ",
+        "もとめる"
+      ],
+      "meanings": [
+        "request",
+        "want",
+        "wish for",
+        "require",
+        "demand"
+      ]
+    },
+    {
+      "symbol": "泣",
+      "kana": [
+        "キュウ",
+        "なく"
+      ],
+      "meanings": [
+        "cry",
+        "weep",
+        "moan"
+      ]
+    },
+    {
+      "symbol": "給",
+      "kana": [
+        "キュウ",
+        "たまう",
+        "たもう",
+        "-たまえ"
+      ],
+      "meanings": [
+        "salary",
+        "wage",
+        "gift",
+        "allow",
+        "grant",
+        "bestow on"
+      ]
+    },
+    {
+      "symbol": "希",
+      "kana": [
+        "キ",
+        "ケ",
+        "まれ"
+      ],
+      "meanings": [
+        "hope",
+        "beg",
+        "request",
+        "pray",
+        "beseech",
+        "Greece",
+        "dilute (acid)",
+        "rare",
+        "few",
+        "phenomenal"
+      ]
+    },
+    {
+      "symbol": "旗",
+      "kana": [
+        "キ",
+        "はた"
+      ],
+      "meanings": [
+        "national flag",
+        "banner",
+        "standard"
+      ]
+    },
+    {
+      "symbol": "機",
+      "kana": [
+        "キ",
+        "はた"
+      ],
+      "meanings": [
+        "mechanism",
+        "opportunity",
+        "occasion",
+        "machine",
+        "airplane"
+      ]
+    },
+    {
+      "symbol": "器",
+      "kana": [
+        "キ",
+        "うつわ"
+      ],
+      "meanings": [
+        "utensil",
+        "vessel",
+        "receptacle",
+        "implement",
+        "instrument",
+        "ability",
+        "container",
+        "tool",
+        "set"
+      ]
+    },
+    {
+      "symbol": "関",
+      "kana": [
+        "カン",
+        "せき",
+        "-ぜき",
+        "かかわる",
+        "からくり",
+        "かんぬき"
+      ],
+      "meanings": [
+        "connection",
+        "barrier",
+        "gateway",
+        "involve",
+        "concerning"
+      ]
+    },
+    {
+      "symbol": "願",
+      "kana": [
+        "ガン",
+        "ねがう",
+        "-ねがい"
+      ],
+      "meanings": [
+        "petition",
+        "request",
+        "vow",
+        "wish",
+        "hope"
+      ]
+    },
+    {
+      "symbol": "喜",
+      "kana": [
+        "キ",
+        "よろこぶ",
+        "よろこばす"
+      ],
+      "meanings": [
+        "rejoice",
+        "take pleasure in"
+      ]
+    },
+    {
+      "symbol": "管",
+      "kana": [
+        "カン",
+        "くだ"
+      ],
+      "meanings": [
+        "pipe",
+        "tube",
+        "wind instrument",
+        "drunken talk"
+      ]
+    },
+    {
+      "symbol": "観",
+      "kana": [
+        "カン",
+        "みる",
+        "しめす"
+      ],
+      "meanings": [
+        "outlook",
+        "look",
+        "appearance",
+        "condition",
+        "view"
+      ]
+    },
+    {
+      "symbol": "完",
+      "kana": [
+        "カン"
+      ],
+      "meanings": [
+        "perfect",
+        "completion",
+        "end"
+      ]
+    },
+    {
+      "symbol": "官",
+      "kana": [
+        "カン"
+      ],
+      "meanings": [
+        "bureaucrat",
+        "the government"
+      ]
+    },
+    {
+      "symbol": "改",
+      "kana": [
+        "カイ",
+        "あらためる",
+        "あらたまる"
+      ],
+      "meanings": [
+        "reformation",
+        "change",
+        "modify",
+        "mend",
+        "renew",
+        "examine",
+        "inspect",
+        "search"
+      ]
+    },
+    {
+      "symbol": "械",
+      "kana": [
+        "カイ",
+        "かせ"
+      ],
+      "meanings": [
+        "contraption",
+        "fetter",
+        "machine",
+        "instrument"
+      ]
+    },
+    {
+      "symbol": "害",
+      "kana": [
+        "ガイ"
+      ],
+      "meanings": [
+        "harm",
+        "injury"
+      ]
+    },
+    {
+      "symbol": "街",
+      "kana": [
+        "ガイ",
+        "カイ",
+        "まち"
+      ],
+      "meanings": [
+        "boulevard",
+        "street",
+        "town"
+      ]
+    },
+    {
+      "symbol": "各",
+      "kana": [
+        "カク",
+        "おのおの"
+      ],
+      "meanings": [
+        "each",
+        "every",
+        "either"
+      ]
+    },
+    {
+      "symbol": "覚",
+      "kana": [
+        "カク",
+        "おぼえる",
+        "さます",
+        "さめる",
+        "さとる"
+      ],
+      "meanings": [
+        "memorize",
+        "learn",
+        "remember",
+        "awake",
+        "sober up"
+      ]
+    },
+    {
+      "symbol": "栄",
+      "kana": [
+        "エイ",
+        "ヨウ",
+        "さかえる",
+        "はえ",
+        "-ばえ",
+        "はえる",
+        "え"
+      ],
+      "meanings": [
+        "flourish",
+        "prosperity",
+        "honor",
+        "glory",
+        "splendor"
+      ]
+    },
+    {
+      "symbol": "英",
+      "kana": [
+        "エイ",
+        "はなぶさ"
+      ],
+      "meanings": [
+        "England",
+        "English"
+      ]
+    },
+    {
+      "symbol": "塩",
+      "kana": [
+        "エン",
+        "しお"
+      ],
+      "meanings": [
+        "salt"
+      ]
+    },
+    {
+      "symbol": "億",
+      "kana": [
+        "オク"
+      ],
+      "meanings": [
+        "hundred million",
+        "10**8"
+      ]
+    },
+    {
+      "symbol": "加",
+      "kana": [
+        "カ",
+        "くわえる",
+        "くわわる"
+      ],
+      "meanings": [
+        "add",
+        "addition",
+        "increase",
+        "join",
+        "include",
+        "Canada"
+      ]
+    },
+    {
+      "symbol": "果",
+      "kana": [
+        "カ",
+        "はたす",
+        "はたす",
+        "-はたす",
+        "はてる",
+        "-はてる",
+        "はて"
+      ],
+      "meanings": [
+        "fruit",
+        "reward",
+        "carry out",
+        "achieve",
+        "complete",
+        "end",
+        "finish",
+        "succeed"
+      ]
+    },
+    {
+      "symbol": "課",
+      "kana": [
+        "カ"
+      ],
+      "meanings": [
+        "chapter",
+        "lesson",
+        "section",
+        "department",
+        "division",
+        "counter for chapters (of a book)"
+      ]
+    },
+    {
+      "symbol": "貨",
+      "kana": [
+        "カ",
+        "たから"
+      ],
+      "meanings": [
+        "freight",
+        "goods",
+        "property"
+      ]
+    },
+    {
+      "symbol": "芽",
+      "kana": [
+        "ガ",
+        "め"
+      ],
+      "meanings": [
+        "bud",
+        "sprout",
+        "spear",
+        "germ"
+      ]
+    },
+    {
+      "symbol": "愛",
+      "kana": [
+        "アイ",
+        "いとしい",
+        "かなしい",
+        "めでる",
+        "おしむ",
+        "まな"
+      ],
+      "meanings": [
+        "love",
+        "affection",
+        "favourite"
+      ]
+    },
+    {
+      "symbol": "案",
+      "kana": [
+        "アン",
+        "つくえ"
+      ],
+      "meanings": [
+        "plan",
+        "suggestion",
+        "draft",
+        "ponder",
+        "fear",
+        "proposition",
+        "idea",
+        "expectation",
+        "bill",
+        "worry"
+      ]
+    },
+    {
+      "symbol": "以",
+      "kana": [
+        "イ",
+        "もって"
+      ],
+      "meanings": [
+        "by means of",
+        "because",
+        "in view of",
+        "compared with"
+      ]
+    },
+    {
+      "symbol": "位",
+      "kana": [
+        "イ",
+        "くらい",
+        "ぐらい"
+      ],
+      "meanings": [
+        "rank",
+        "grade",
+        "throne",
+        "crown",
+        "about",
+        "some"
+      ]
+    },
+    {
+      "symbol": "囲",
+      "kana": [
+        "イ",
+        "かこむ",
+        "かこう",
+        "かこい"
+      ],
+      "meanings": [
+        "surround",
+        "besiege",
+        "store",
+        "paling",
+        "enclosure",
+        "encircle",
+        "preserve",
+        "keep"
+      ]
+    },
+    {
+      "symbol": "胃",
+      "kana": [
+        "イ"
+      ],
+      "meanings": [
+        "stomach",
+        "paunch",
+        "crop",
+        "craw"
+      ]
+    },
+    {
+      "symbol": "衣",
+      "kana": [
+        "イ",
+        "エ",
+        "ころも",
+        "きぬ",
+        "-ぎ"
+      ],
+      "meanings": [
+        "garment",
+        "clothes",
+        "dressing"
+      ]
+    },
+    {
+      "symbol": "印",
+      "kana": [
+        "イン",
+        "しるし",
+        "-じるし",
+        "しるす"
+      ],
+      "meanings": [
+        "stamp",
+        "seal",
+        "mark",
+        "imprint",
+        "symbol",
+        "emblem",
+        "trademark",
+        "evidence",
+        "souvenir",
+        "India"
+      ]
+    }
+  ]
+}

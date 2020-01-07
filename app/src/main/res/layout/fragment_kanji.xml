@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorBackground"
+        android:padding="5dp">
+    <androidx.gridlayout.widget.GridLayout
+            tools:context=".fragments.KanjiFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:columnCount="3"
+            app:rowCount="7">
+
+        <Button
+                android:id="@+id/btnGrade1"
+                android:text="Grade 1"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="0"
+                app:layout_column="0"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+
+        <Button
+                android:id="@+id/btnGrade2"
+                android:text="Grade 2"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="0"
+                app:layout_column="1"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+
+        <Button
+                android:id="@+id/btnGrade3"
+                android:text="Grade 3"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="0"
+                app:layout_column="2"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+
+        <Button
+                android:id="@+id/btnGrade4"
+                android:text="Grade 4"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="1"
+                app:layout_column="0"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+
+        <Button
+                android:id="@+id/btnGrade5"
+                android:text="Grade 5"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="1"
+                app:layout_column="1"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+        <Button
+                android:id="@+id/btnGrade6"
+                android:text="Grade 6"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="1"
+                app:layout_column="2"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+
+        <Button
+                android:id="@+id/btnJpltN5"
+                android:text="JPLT N5"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="2"
+                app:layout_column="0"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+
+        <Button
+                android:id="@+id/btnJpltN4"
+                android:text="JPLT N4"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="2"
+                app:layout_column="1"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+
+        <Button
+                android:id="@+id/btnJpltN3"
+                android:text="JPLT N3"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="2"
+                app:layout_column="2"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+
+        <Button
+                android:id="@+id/btnJpltN2"
+                android:text="JPLT N2"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="3"
+                app:layout_column="0"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+        <Button
+                android:id="@+id/btnJpltN1"
+                android:text="JPLT N1"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="3"
+                app:layout_column="1"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+
+        <Button
+                android:id="@+id/btnJuniorHigh"
+                android:text="Jr. High"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="3"
+                app:layout_column="2"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+        <Button
+                android:id="@+id/btnNewspaper"
+                android:text="Newspaper"
+                android:background="@drawable/dark_card"
+                android:layout_margin="5dp"
+                app:layout_row="6"
+                app:layout_column="0"
+                app:layout_columnSpan="3"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"/>
+    </androidx.gridlayout.widget.GridLayout>
+</ScrollView>

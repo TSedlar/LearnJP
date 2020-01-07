@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/kana_card"
+              android:layout_margin="3dp"
+              android:minHeight="73dp"
+              android:minWidth="55dp"
+              android:maxHeight="73dp"
+              android:maxWidth="55dp">
+    <TextView
+            android:id="@+id/primaryKana"
+            android:text="あ"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="36sp"
+            android:textColor="@color/colorText"/>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <TextView
+                android:id="@+id/secondaryKana"
+                android:text="ア"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textSize="14sp"
+                android:gravity="center_horizontal"
+                android:minWidth="16sp"
+                android:textColor="@color/colorText"/>
+        <TextView
+                android:id="@+id/romaji"
+                android:text="A"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" android:textSize="14sp"
+                android:minWidth="24sp"
+                android:gravity="center_horizontal"
+                android:textColor="@color/colorText"/>
+    </LinearLayout>
+</LinearLayout>

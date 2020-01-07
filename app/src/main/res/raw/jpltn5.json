@@ -1,0 +1,1094 @@
+{
+  "kanji": [
+    {
+      "symbol": "日",
+      "kana": [
+        "ニチ",
+        "ジツ",
+        "ひ",
+        "-び",
+        "-か"
+      ],
+      "meanings": [
+        "day",
+        "sun",
+        "Japan",
+        "counter for days"
+      ]
+    },
+    {
+      "symbol": "一",
+      "kana": [
+        "イチ",
+        "イツ",
+        "ひと-",
+        "ひと.つ"
+      ],
+      "meanings": [
+        "one",
+        "one radical (no.1)"
+      ]
+    },
+    {
+      "symbol": "国",
+      "kana": [
+        "コク",
+        "くに"
+      ],
+      "meanings": [
+        "country"
+      ]
+    },
+    {
+      "symbol": "人",
+      "kana": [
+        "ジン",
+        "ニン",
+        "ひと",
+        "-り",
+        "-と"
+      ],
+      "meanings": [
+        "person"
+      ]
+    },
+    {
+      "symbol": "年",
+      "kana": [
+        "ネン",
+        "とし"
+      ],
+      "meanings": [
+        "year",
+        "counter for years"
+      ]
+    },
+    {
+      "symbol": "大",
+      "kana": [
+        "ダイ",
+        "タイ",
+        "おお-",
+        "おお.きい",
+        "-おお.いに"
+      ],
+      "meanings": [
+        "large",
+        "big"
+      ]
+    },
+    {
+      "symbol": "十",
+      "kana": [
+        "ジュウ",
+        "ジッ",
+        "ジュッ",
+        "とお",
+        "と"
+      ],
+      "meanings": [
+        "ten"
+      ]
+    },
+    {
+      "symbol": "二",
+      "kana": [
+        "ニ",
+        "ジ",
+        "ふた",
+        "ふた.つ",
+        "ふたた.び"
+      ],
+      "meanings": [
+        "two",
+        "two radical (no.2)"
+      ]
+    },
+    {
+      "symbol": "本",
+      "kana": [
+        "ホン",
+        "もと"
+      ],
+      "meanings": [
+        "book",
+        "present",
+        "main",
+        "origin",
+        "true",
+        "real",
+        "counter for long cylindrical things"
+      ]
+    },
+    {
+      "symbol": "中",
+      "kana": [
+        "チュウ",
+        "なか",
+        "うち",
+        "あた.る"
+      ],
+      "meanings": [
+        "in",
+        "inside",
+        "middle",
+        "mean",
+        "center"
+      ]
+    },
+    {
+      "symbol": "長",
+      "kana": [
+        "チョウ",
+        "なが.い",
+        "おさ"
+      ],
+      "meanings": [
+        "long",
+        "leader"
+      ]
+    },
+    {
+      "symbol": "出",
+      "kana": [
+        "シュツ",
+        "スイ",
+        "で.る",
+        "-で",
+        "だ.す",
+        "-だ.す",
+        "い.でる",
+        "い.だす"
+      ],
+      "meanings": [
+        "exit",
+        "leave",
+        "go out",
+        "come out",
+        "put out",
+        "protrude"
+      ]
+    },
+    {
+      "symbol": "三",
+      "kana": [
+        "サン",
+        "ゾウ",
+        "み",
+        "み.つ",
+        "みっ.つ"
+      ],
+      "meanings": [
+        "three"
+      ]
+    },
+    {
+      "symbol": "時",
+      "kana": [
+        "ジ",
+        "とき",
+        "-どき"
+      ],
+      "meanings": [
+        "time",
+        "hour"
+      ]
+    },
+    {
+      "symbol": "行",
+      "kana": [
+        "コウ",
+        "ギョウ",
+        "アン",
+        "い.く",
+        "ゆ.く",
+        "-ゆ.き",
+        "-ゆき",
+        "-い.き",
+        "-いき",
+        "おこな.う",
+        "おこ.なう"
+      ],
+      "meanings": [
+        "going",
+        "journey"
+      ]
+    },
+    {
+      "symbol": "見",
+      "kana": [
+        "ケン",
+        "み.る",
+        "み.える",
+        "み.せる"
+      ],
+      "meanings": [
+        "see",
+        "hopes",
+        "chances",
+        "idea",
+        "opinion",
+        "look at",
+        "visible"
+      ]
+    },
+    {
+      "symbol": "月",
+      "kana": [
+        "ゲツ",
+        "ガツ",
+        "つき"
+      ],
+      "meanings": [
+        "month",
+        "moon"
+      ]
+    },
+    {
+      "symbol": "後",
+      "kana": [
+        "ゴ",
+        "コウ",
+        "のち",
+        "うし.ろ",
+        "うしろ",
+        "あと",
+        "おく.れる"
+      ],
+      "meanings": [
+        "behind",
+        "back",
+        "later"
+      ]
+    },
+    {
+      "symbol": "前",
+      "kana": [
+        "ゼン",
+        "まえ",
+        "-まえ"
+      ],
+      "meanings": [
+        "in front",
+        "before"
+      ]
+    },
+    {
+      "symbol": "生",
+      "kana": [
+        "セイ",
+        "ショウ",
+        "い.きる",
+        "い.かす",
+        "い.ける",
+        "う.まれる",
+        "うま.れる",
+        "う.まれ",
+        "うまれ",
+        "う.む",
+        "お.う",
+        "は.える",
+        "は.やす",
+        "き",
+        "なま",
+        "なま-",
+        "な.る",
+        "な.す",
+        "む.す ・"
+      ],
+      "meanings": [
+        "life",
+        "genuine",
+        "birth"
+      ]
+    },
+    {
+      "symbol": "五",
+      "kana": [
+        "ゴ",
+        "いつ",
+        "いつ.つ"
+      ],
+      "meanings": [
+        "five"
+      ]
+    },
+    {
+      "symbol": "間",
+      "kana": [
+        "カン",
+        "ケン",
+        "あいだ",
+        "ま",
+        "あい"
+      ],
+      "meanings": [
+        "interval",
+        "space"
+      ]
+    },
+    {
+      "symbol": "上",
+      "kana": [
+        "ジョウ",
+        "ショウ",
+        "シャン",
+        "うえ",
+        "-うえ",
+        "うわ-",
+        "かみ",
+        "あ.げる",
+        "-あ.げる",
+        "あ.がる",
+        "-あ.がる",
+        "あ.がり",
+        "-あ.がり",
+        "のぼ.る",
+        "のぼ.り",
+        "のぼ.せる",
+        "のぼ.す",
+        "よ.す"
+      ],
+      "meanings": [
+        "above",
+        "up"
+      ]
+    },
+    {
+      "symbol": "東",
+      "kana": [
+        "トウ",
+        "ひがし"
+      ],
+      "meanings": [
+        "east"
+      ]
+    },
+    {
+      "symbol": "四",
+      "kana": [
+        "シ",
+        "よ",
+        "よ.つ",
+        "よっ.つ",
+        "よん"
+      ],
+      "meanings": [
+        "four"
+      ]
+    },
+    {
+      "symbol": "今",
+      "kana": [
+        "コン",
+        "キン",
+        "いま"
+      ],
+      "meanings": [
+        "now"
+      ]
+    },
+    {
+      "symbol": "金",
+      "kana": [
+        "キン",
+        "コン",
+        "ゴン",
+        "かね",
+        "かな-",
+        "-がね"
+      ],
+      "meanings": [
+        "gold"
+      ]
+    },
+    {
+      "symbol": "九",
+      "kana": [
+        "キュウ",
+        "ク",
+        "ここの",
+        "ここの.つ"
+      ],
+      "meanings": [
+        "nine"
+      ]
+    },
+    {
+      "symbol": "入",
+      "kana": [
+        "ニュウ",
+        "ジュ",
+        "い.る",
+        "-い.る",
+        "-い.り",
+        "い.れる",
+        "-い.れ",
+        "はい.る"
+      ],
+      "meanings": [
+        "enter",
+        "insert"
+      ]
+    },
+    {
+      "symbol": "学",
+      "kana": [
+        "ガク",
+        "まな.ぶ"
+      ],
+      "meanings": [
+        "study",
+        "learning",
+        "science"
+      ]
+    },
+    {
+      "symbol": "高",
+      "kana": [
+        "コウ",
+        "たか.い",
+        "たか",
+        "-だか",
+        "たか.まる",
+        "たか.める"
+      ],
+      "meanings": [
+        "tall",
+        "high",
+        "expensive"
+      ]
+    },
+    {
+      "symbol": "円",
+      "kana": [
+        "エン",
+        "まる.い",
+        "まる",
+        "まど",
+        "まど.か",
+        "まろ.やか"
+      ],
+      "meanings": [
+        "circle",
+        "yen",
+        "round"
+      ]
+    },
+    {
+      "symbol": "子",
+      "kana": [
+        "シ",
+        "ス",
+        "ツ",
+        "こ",
+        "-こ",
+        "ね"
+      ],
+      "meanings": [
+        "child",
+        "sign of the rat",
+        "11PM-1AM",
+        "first sign of Chinese zodiac"
+      ]
+    },
+    {
+      "symbol": "外",
+      "kana": [
+        "ガイ",
+        "ゲ",
+        "そと",
+        "ほか",
+        "はず.す",
+        "はず.れる",
+        "と-"
+      ],
+      "meanings": [
+        "outside"
+      ]
+    },
+    {
+      "symbol": "八",
+      "kana": [
+        "ハチ",
+        "や",
+        "や.つ",
+        "やっ.つ",
+        "よう"
+      ],
+      "meanings": [
+        "eight",
+        "eight radical (no. 12)"
+      ]
+    },
+    {
+      "symbol": "六",
+      "kana": [
+        "ロク",
+        "リク",
+        "む",
+        "む.つ",
+        "むっ.つ",
+        "むい"
+      ],
+      "meanings": [
+        "six"
+      ]
+    },
+    {
+      "symbol": "下",
+      "kana": [
+        "カ",
+        "ゲ",
+        "した",
+        "しも",
+        "もと",
+        "さ.げる",
+        "さ.がる",
+        "くだ.る",
+        "くだ.り",
+        "くだ.す",
+        "-くだ.す",
+        "くだ.さる",
+        "お.ろす",
+        "お.りる"
+      ],
+      "meanings": [
+        "below",
+        "down",
+        "descend",
+        "give",
+        "low",
+        "inferior"
+      ]
+    },
+    {
+      "symbol": "来",
+      "kana": [
+        "ライ",
+        "タイ",
+        "く.る",
+        "きた.る",
+        "きた.す",
+        "き.たす",
+        "き.たる",
+        "き",
+        "こ"
+      ],
+      "meanings": [
+        "come",
+        "due",
+        "next",
+        "cause",
+        "become"
+      ]
+    },
+    {
+      "symbol": "気",
+      "kana": [
+        "キ",
+        "ケ",
+        "いき"
+      ],
+      "meanings": [
+        "spirit",
+        "mind",
+        "air",
+        "atmosphere",
+        "mood"
+      ]
+    },
+    {
+      "symbol": "小",
+      "kana": [
+        "ショウ",
+        "ちい.さい",
+        "こ-",
+        "お-",
+        "さ-"
+      ],
+      "meanings": [
+        "little",
+        "small"
+      ]
+    },
+    {
+      "symbol": "七",
+      "kana": [
+        "シチ",
+        "なな",
+        "なな.つ",
+        "なの"
+      ],
+      "meanings": [
+        "seven"
+      ]
+    },
+    {
+      "symbol": "山",
+      "kana": [
+        "サン",
+        "セン",
+        "やま"
+      ],
+      "meanings": [
+        "mountain"
+      ]
+    },
+    {
+      "symbol": "話",
+      "kana": [
+        "ワ",
+        "はな.す",
+        "はなし"
+      ],
+      "meanings": [
+        "tale",
+        "talk"
+      ]
+    },
+    {
+      "symbol": "女",
+      "kana": [
+        "ジョ",
+        "ニョ",
+        "ニョウ",
+        "おんな",
+        "め"
+      ],
+      "meanings": [
+        "woman",
+        "female"
+      ]
+    },
+    {
+      "symbol": "北",
+      "kana": [
+        "ホク",
+        "きた"
+      ],
+      "meanings": [
+        "north"
+      ]
+    },
+    {
+      "symbol": "午",
+      "kana": [
+        "ゴ",
+        "うま"
+      ],
+      "meanings": [
+        "noon",
+        "sign of the horse",
+        "11AM-1PM",
+        "seventh sign of Chinese zodiac"
+      ]
+    },
+    {
+      "symbol": "百",
+      "kana": [
+        "ヒャク",
+        "ビャク",
+        "もも"
+      ],
+      "meanings": [
+        "hundred"
+      ]
+    },
+    {
+      "symbol": "書",
+      "kana": [
+        "ショ",
+        "か.く",
+        "-が.き",
+        "-がき"
+      ],
+      "meanings": [
+        "write"
+      ]
+    },
+    {
+      "symbol": "先",
+      "kana": [
+        "セン",
+        "さき",
+        "ま.ず"
+      ],
+      "meanings": [
+        "before",
+        "ahead",
+        "previous",
+        "future",
+        "precedence"
+      ]
+    },
+    {
+      "symbol": "名",
+      "kana": [
+        "メイ",
+        "ミョウ",
+        "な",
+        "-な"
+      ],
+      "meanings": [
+        "name",
+        "noted",
+        "distinguished",
+        "reputation"
+      ]
+    },
+    {
+      "symbol": "川",
+      "kana": [
+        "セン",
+        "かわ"
+      ],
+      "meanings": [
+        "stream",
+        "river",
+        "river or 3-stroke river radical (no. 47)"
+      ]
+    },
+    {
+      "symbol": "千",
+      "kana": [
+        "セン",
+        "ち"
+      ],
+      "meanings": [
+        "thousand"
+      ]
+    },
+    {
+      "symbol": "水",
+      "kana": [
+        "スイ",
+        "みず",
+        "みず-"
+      ],
+      "meanings": [
+        "water"
+      ]
+    },
+    {
+      "symbol": "半",
+      "kana": [
+        "ハン",
+        "なか.ば"
+      ],
+      "meanings": [
+        "half",
+        "middle",
+        "odd number",
+        "semi-",
+        "part-"
+      ]
+    },
+    {
+      "symbol": "男",
+      "kana": [
+        "ダン",
+        "ナン",
+        "おとこ",
+        "お"
+      ],
+      "meanings": [
+        "male"
+      ]
+    },
+    {
+      "symbol": "西",
+      "kana": [
+        "セイ",
+        "サイ",
+        "ス",
+        "にし"
+      ],
+      "meanings": [
+        "west",
+        "Spain"
+      ]
+    },
+    {
+      "symbol": "電",
+      "kana": [
+        "デン"
+      ],
+      "meanings": [
+        "electricity"
+      ]
+    },
+    {
+      "symbol": "校",
+      "kana": [
+        "コウ",
+        "キョウ"
+      ],
+      "meanings": [
+        "exam",
+        "school",
+        "printing",
+        "proof",
+        "correction"
+      ]
+    },
+    {
+      "symbol": "語",
+      "kana": [
+        "ゴ",
+        "かた.る",
+        "かた.らう"
+      ],
+      "meanings": [
+        "word",
+        "speech",
+        "language"
+      ]
+    },
+    {
+      "symbol": "土",
+      "kana": [
+        "ド",
+        "ト",
+        "つち"
+      ],
+      "meanings": [
+        "soil",
+        "earth",
+        "ground",
+        "Turkey"
+      ]
+    },
+    {
+      "symbol": "木",
+      "kana": [
+        "ボク",
+        "モク",
+        "き",
+        "こ-"
+      ],
+      "meanings": [
+        "tree",
+        "wood"
+      ]
+    },
+    {
+      "symbol": "聞",
+      "kana": [
+        "ブン",
+        "モン",
+        "き.く",
+        "き.こえる"
+      ],
+      "meanings": [
+        "hear",
+        "ask",
+        "listen"
+      ]
+    },
+    {
+      "symbol": "食",
+      "kana": [
+        "ショク",
+        "ジキ",
+        "く.う",
+        "く.らう",
+        "た.べる",
+        "は.む"
+      ],
+      "meanings": [
+        "eat",
+        "food"
+      ]
+    },
+    {
+      "symbol": "車",
+      "kana": [
+        "シャ",
+        "くるま"
+      ],
+      "meanings": [
+        "car"
+      ]
+    },
+    {
+      "symbol": "何",
+      "kana": [
+        "カ",
+        "なに",
+        "なん",
+        "なに-",
+        "なん-"
+      ],
+      "meanings": [
+        "what"
+      ]
+    },
+    {
+      "symbol": "南",
+      "kana": [
+        "ナン",
+        "ナ",
+        "みなみ"
+      ],
+      "meanings": [
+        "south"
+      ]
+    },
+    {
+      "symbol": "万",
+      "kana": [
+        "マン",
+        "バン",
+        "よろず"
+      ],
+      "meanings": [
+        "ten thousand",
+        "10,000"
+      ]
+    },
+    {
+      "symbol": "毎",
+      "kana": [
+        "マイ",
+        "ごと",
+        "-ごと.に"
+      ],
+      "meanings": [
+        "every"
+      ]
+    },
+    {
+      "symbol": "白",
+      "kana": [
+        "ハク",
+        "ビャク",
+        "しろ",
+        "しら-",
+        "しろ.い"
+      ],
+      "meanings": [
+        "white"
+      ]
+    },
+    {
+      "symbol": "天",
+      "kana": [
+        "テン",
+        "あまつ",
+        "あめ",
+        "あま-"
+      ],
+      "meanings": [
+        "heavens",
+        "sky",
+        "imperial"
+      ]
+    },
+    {
+      "symbol": "母",
+      "kana": [
+        "ボ",
+        "はは",
+        "も"
+      ],
+      "meanings": [
+        "mother"
+      ]
+    },
+    {
+      "symbol": "火",
+      "kana": [
+        "カ",
+        "ひ",
+        "-び",
+        "ほ-"
+      ],
+      "meanings": [
+        "fire"
+      ]
+    },
+    {
+      "symbol": "右",
+      "kana": [
+        "ウ",
+        "ユウ",
+        "みぎ"
+      ],
+      "meanings": [
+        "right"
+      ]
+    },
+    {
+      "symbol": "読",
+      "kana": [
+        "ドク",
+        "トク",
+        "トウ",
+        "よ.む",
+        "-よ.み"
+      ],
+      "meanings": [
+        "read"
+      ]
+    },
+    {
+      "symbol": "友",
+      "kana": [
+        "ユウ",
+        "とも"
+      ],
+      "meanings": [
+        "friend"
+      ]
+    },
+    {
+      "symbol": "左",
+      "kana": [
+        "サ",
+        "シャ",
+        "ひだり"
+      ],
+      "meanings": [
+        "left"
+      ]
+    },
+    {
+      "symbol": "休",
+      "kana": [
+        "キュウ",
+        "やす.む",
+        "やす.まる",
+        "やす.める"
+      ],
+      "meanings": [
+        "rest",
+        "day off",
+        "retire",
+        "sleep"
+      ]
+    },
+    {
+      "symbol": "父",
+      "kana": [
+        "フ",
+        "ちち"
+      ],
+      "meanings": [
+        "father"
+      ]
+    },
+    {
+      "symbol": "雨",
+      "kana": [
+        "ウ",
+        "あめ",
+        "あま-",
+        "-さめ"
+      ],
+      "meanings": [
+        "rain"
+      ]
+    }
+  ]
+}

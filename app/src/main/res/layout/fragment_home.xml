@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.gridlayout.widget.GridLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context=".fragments.HomeFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorBackground"
+        android:padding="5dp"
+        app:columnCount="2"
+        app:rowCount="3">
+
+    <Button
+            android:id="@+id/btnKana"
+            android:text="View Kana"
+            android:background="@drawable/dark_card"
+            android:layout_margin="5dp"
+            app:layout_row="0"
+            app:layout_column="0"
+            app:layout_columnSpan="2"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"/>
+
+    <Button
+            android:id="@+id/btnHiragana"
+            android:text="Study\nHiragana"
+            android:background="@drawable/dark_card"
+            android:layout_margin="5dp"
+            app:layout_row="1"
+            app:layout_column="0"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"/>
+
+    <Button
+            android:id="@+id/btnKatakana"
+            android:text="Study\nKatakana"
+            android:background="@drawable/dark_card"
+            android:layout_margin="5dp"
+            app:layout_row="1"
+            app:layout_column="1"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"/>
+
+    <Button
+            android:id="@+id/btnKanji"
+            android:text="Study Kanji"
+            android:background="@drawable/dark_card"
+            android:layout_margin="5dp"
+            app:layout_row="2"
+            app:layout_column="0"
+            app:layout_columnSpan="2"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1"/>
+</androidx.gridlayout.widget.GridLayout>
